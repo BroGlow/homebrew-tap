@@ -7,12 +7,12 @@ class Broglow < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/broglow/broglow/releases/download/v1.0.3/broglow-v1.0.3-aarch64-apple-darwin.tar.gz"
-      sha256 "f9f4e193254096b0c3c7c916d2b21a85d0eeab763b1da44d6adfd7023a92b951"
+      url "https://github.com/broglow/broglow/releases/download/v1.1.0/broglow-v1.1.0-aarch64-apple-darwin.tar.gz"
+      sha256 "517a4b02058938719cf86623292d343500ef78e8827d934ae306b11687eadee7"
     end
     on_intel do
-      url "https://github.com/broglow/broglow/releases/download/v1.0.3/broglow-v1.0.3-x86_64-apple-darwin.tar.gz"
-      sha256 "39160ee6879b5b0a6c6832636d560395263f0458211f00d73c678fe96c9018a6"
+      url "https://github.com/broglow/broglow/releases/download/v1.1.0/broglow-v1.1.0-x86_64-apple-darwin.tar.gz"
+      sha256 "78cdd92cdfbaa63b4150298af1ebf41f7fe465e5142dc6aec5e14539ea753e68"
     end
   end
 
